@@ -1,4 +1,8 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/sllvoqbnlb5byn0h?svg=true)](https://ci.appveyor.com/project/0anastasia/media)
+
+https://0anastasia.github.io/media/
+
+
 ## Geolocation, Notification, Media
 
 проект "Timeline" - лентa постов человека, где он может прикреплять текстовые посты, а также записывать аудио и видео в привязке к своей геопозиции.
