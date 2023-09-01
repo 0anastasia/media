@@ -27,7 +27,6 @@ html, body {
     justify-content: end;
     flex-grow: 1;
     padding: 15px 20px 120px 30px;
-    background-color: #5c8ab3;
 }
 
 .chat-form {
@@ -132,7 +131,7 @@ html, body {
     margin-bottom: 5px;
     font-size: 12px;
     line-height: 16px;
-    color: #6994ba;
+    color: gray;
     align-self: flex-end;
 
 }
@@ -140,7 +139,7 @@ html, body {
 .chat-message-geolocation {
     font-size: 12px;
     line-height: 16px;
-    color: #6994ba;
+    color: grey;
     margin-top: 8px;
 }
 
